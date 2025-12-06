@@ -99,13 +99,13 @@ Vamos a buscar las opciones de:
 
 ![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-04%20230350.png)
 
-8. Una vez que los resultados han sido compilados de manera correcta arrojara los resultados a continuación:
+8. Una vez que los resultados han sido compilados de manera correcta arrojara los resultados:
 
-![]()
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20213606.png)
 
 ## Resultados
 
 ![]()
 ![]()
 ![]()
-![]()
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20213606.png)
