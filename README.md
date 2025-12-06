@@ -82,7 +82,7 @@ void loop() {
 
 5. Para el siguiente paso en la parte de ``Simulation`` en la opción de ``+`` 
 
-![]()
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-04%20230350.png)
 
 Vamos a buscar las opciones de: 
 - DHT22
