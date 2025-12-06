@@ -88,8 +88,12 @@ Vamos a buscar las opciones de:
 - DHT22
 - LCD 16x2
 
-![]()
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20205947.png)
 ![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-04%20231406.png)
+
+6. Hacer la conexión del ESP32 con el DHT22 y LCD
+
+![]()
 
 ## Resultados
 
