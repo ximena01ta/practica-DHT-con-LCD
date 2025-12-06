@@ -106,6 +106,6 @@ Vamos a buscar las opciones de:
 ## Resultados
 
 ![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20213540.png)
-![]()
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20213656.png)
 ![]()
 ![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20213606.png)
