@@ -1,1 +1,1 @@
-# practica-DHT-con-LCD
+# REPORTE DE DHT CON LCD
