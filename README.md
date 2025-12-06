@@ -15,7 +15,7 @@ Simulador WOKWI (https://wokwi.com) :
 
 2. Seleccionar la opción ``ESP32`` en ambos casos
 
-![]()
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20011019.png)
 ![]()
 
 Nos llevará a la siguiente página:
