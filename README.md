@@ -78,6 +78,17 @@ void loop() {
 - DHT sensor library for ESPx
 - LiquidCrystal I2C
 
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20203053.png)
+
+5. Para el siguiente paso en la parte de ``Simulation`` en la opción de ``+`` 
+
+![]()
+
+Vamos a buscar las opciones de: 
+- DHT22
+- LCD 16x2
+
+![]()
 ![]()
 
 ## Resultados
