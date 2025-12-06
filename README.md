@@ -1,7 +1,7 @@
 # REPORTE DE DHT CON LCD
 
 ## Introducción
-El sensor DHT22 enviara los datos al LCD y esto perimte obtener lecturas como lo es temperatura (°C), humedad(%), nombre del expositor, el modulo y dar una bienvenida.
+El sensor DHT22 enviara los datos al LCD y esto permite obtener lecturas como lo es temperatura (°C), humedad(%), nombre del expositor, el modulo y dar una bienvenida.
 
 ## Materiales
 Simulador WOKWI (https://wokwi.com) :
