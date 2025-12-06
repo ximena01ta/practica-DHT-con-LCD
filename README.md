@@ -89,7 +89,7 @@ Vamos a buscar las opciones de:
 - LCD 16x2
 
 ![]()
-![]()
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-04%20231406.png)
 
 ## Resultados
 
