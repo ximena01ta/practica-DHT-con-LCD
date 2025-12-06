@@ -93,9 +93,19 @@ Vamos a buscar las opciones de:
 
 6. Hacer la conexión del ESP32 con el DHT22 y LCD
 
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-05%20212454.png)
+
+7. Iniciamos la simulación con el botón ``play (|>)`` y empezará a visualizarse los lectores del sensor
+
+![](https://github.com/ximena01ta/practica-DHT-con-LCD/blob/main/Captura%20de%20pantalla%202025-12-04%20230350.png)
+
+8. Una vez que los resultados han sido compilados de manera correcta arrojara los resultados a continuación:
+
 ![]()
 
 ## Resultados
 
 ![]()
-
+![]()
+![]()
+![]()
